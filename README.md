@@ -31,7 +31,7 @@ chmod +x initial_recon.sh
 - loot/
 - |-- ini_recon-10.0.2.6-20250528-0900.txt
 - |-- ini_recon-10.0.2.7-20250528-1000.txt
-``
+```
 
 # Author
 Developed by RBfP
